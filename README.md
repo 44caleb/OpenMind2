@@ -35,3 +35,6 @@ and engaging in productive conversations. A problem shared is a problem solved.
 - Use this command to run the Gunicorn server: `$ Gunicorn --worker-class eventlet --threads 4 chat_app:app`
 
 ## Screenshots
+![Chat page 1](https://github.com/44caleb/OpenMind2/assets/127566561/ee6d960a-a7a9-4fca-8d34-a7f1f3b371fa)
+![Chat page 2](https://github.com/44caleb/OpenMind2/assets/127566561/707043b9-1700-4e9c-9d7a-cf825a1eb6c3)
+![Join space page](https://github.com/44caleb/OpenMind2/assets/127566561/f8e95b9d-58c5-4b83-96d0-dd173ab4f211)
